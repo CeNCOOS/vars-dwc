@@ -1,0 +1,7 @@
+name: vars-dwc-env
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - jupyterlab
+prefix: /Users/dianalg/miniconda3/envs/vars-dwc-env
